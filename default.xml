@@ -391,5 +391,5 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="nvertigo/platform_manifest" remote="nvertigo" revision="jb-mr1" />
+  <project path="platform_manifest" name="nvertigo/platform_manifest" remote="nvertigo" revision="my_jb-mr1" />
 </manifest>
