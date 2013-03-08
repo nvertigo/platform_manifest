@@ -15,6 +15,15 @@
   <remote  name="nvertigo"
            fetch="https://github.com/" />
 
+  <remote  name="franco"
+           fetch="https://github.com/" />
+
+  <remote  name="ktoonsez"
+           fetch="https://github.com/" />
+
+  <remote  name="morfic"
+           fetch="https://bitbucket.org/" />
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
