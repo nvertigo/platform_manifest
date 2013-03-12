@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="kernel/samsung/manta" name="nvertigo/kernel_manta_nvertigo" remote="nvertigo" revision="my_ktmanta_0.2" />
+  <project path="kernel/samsung/manta" name="nvertigo/kernel_manta_nvertigo" remote="nvertigo" revision="my_franco" />
 </manifest>
