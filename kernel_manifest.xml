@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="kernel/samsung/manta" name="nvertigo/kernel_manta_nvertigo" remote="nvertigo" revision="my_franco" />
+  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.1" />
 </manifest>
